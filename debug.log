@@ -1,0 +1,9 @@
+[0403/235352.988:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0403/235353.018:ERROR:exception_snapshot_win.cc(98)] thread ID 15996 not found in process
+[0404/023642.709:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0404/023643.547:ERROR:exception_snapshot_win.cc(98)] thread ID 8140 not found in process
+[0405/164245.206:ERROR:file_io_win.cc(179)] CreateFile C:\Users\Erzhal\AppData\Local\Temp\scoped_dir3724_7599\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0406/004259.324:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0406/004259.396:ERROR:exception_snapshot_win.cc(98)] thread ID 15880 not found in process
+[0406/145343.963:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0406/145345.189:ERROR:exception_snapshot_win.cc(98)] thread ID 4668 not found in process
