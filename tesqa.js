@@ -11,6 +11,3 @@ driver.findElement(webdriver.By.xpath("//input[@id='posisi']")).sendKeys("Qualit
 driver.findElement(webdriver.By.css("option[value='4']")).click();
 
 driver.findElement(webdriver.By.xpath("//button[@id='cari']")).click;
-
-
-// driver.findElement(webdriver.By.xpath("//a[contains(text(),'Karir')]")).click();
